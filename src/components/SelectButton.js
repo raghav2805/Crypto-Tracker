@@ -17,7 +17,6 @@ const useStyles = makeStyles((selected) => createStyles({
             color: "black",
         },
         width: "22%",
-        //   margin: 5,
     },
 }));
 
